@@ -43,6 +43,6 @@ nav div button i:active {
 }
 @media screen and (min-width: 450px) {
   body {
-    overflow:hidden;
+    overflow-x: hidden;
   }
  ]
