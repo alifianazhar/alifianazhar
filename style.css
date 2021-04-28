@@ -1,0 +1,43 @@
+.jumbotron {
+  padding-top: 6rem;
+  padding-bottom: 4rem;
+  background-color: #a2edff;
+}
+#projects {
+  background-color: #a2edff;
+}
+nav .nav-link:hover {
+  font-size: 20px;
+  /* margin-top: 3px; */
+  /* margin-right: 3px; */
+  /* margin-left: 3px; */
+}
+section {
+  padding-top: 5rem;
+}
+.navbar-toggler {
+  border: none;
+  color: #a2edff;
+}
+.navbar-toggler:visited {
+  border: none;
+  box-shadow: none;
+  color: #a2edff;
+}
+.navbar-toggler:active {
+  border: none;
+  box-shadow: none;
+  color: #a2edff;
+}
+.navbar-toggler:focus {
+  box-shadow: none;
+}
+body {
+  overflow-x: hidden;
+}
+nav div button i {
+  color: white;
+}
+nav div button i:active {
+  color: rgba(255, 255, 255, 0.8);
+}
