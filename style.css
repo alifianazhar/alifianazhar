@@ -6,11 +6,11 @@
 #projects {
   background-color: #a2edff;
 }
-nav .nav-link:hover {
+nav .nav-link {
   font-size: 20px;
-  /* margin-top: 3px; */
-  /* margin-right: 3px; */
-  /* margin-left: 3px; */
+}
+nav .nav-link:hover {
+  font-size: 25px;
 }
 section {
   padding-top: 5rem;
